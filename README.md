@@ -6,8 +6,8 @@
 😄 Fun Fact: I'm an INTJ and love cats ^o^<br/>
 
 # 🛠️ Tech Stack 💼
-![Skills](https://skillicons.dev/icons?i=js,html,css,sass)<br/>
-![Tools](https://skillicons.dev/icons?i=figma,vscode,obsidian,md)
+Skills: [![Skills](https://skillicons.dev/icons?i=js,html,css,sass)](https://skillicons.dev)<br/>
+Tools: [![Tools](https://skillicons.dev/icons?i=figma,vscode,obsidian,md)](https://skillicons.dev)
 
 ✨Future goals:<br/>
 - To fully learn the MEVN stack and build a web application based on it
