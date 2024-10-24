@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Vincent! 🐈‍⬛
 
 🧑🏻‍💻 UX/UI orientated front-end developer who is always keen to learn new things<br/>
-⚡ Designing & building my apps and sharing about my journey on YouTube and Medium platforms (in the future)<br/>
+⚡ Designing & building my apps and sharing about my journey on YouTube and Medium platforms (in the near future)<br/>
 🌱 Currently learning about Vue Composition API and Tailwind CSS<br/>
 😄 Fun Fact: I'm an INTJ and love cats ^o^<br/>
 
-# 🛠️ Tech Stack 💼
-Skills: [![Skills](https://skillicons.dev/icons?i=js,html,css,sass)](https://skillicons.dev)<br/>
-Tools: [![Tools](https://skillicons.dev/icons?i=figma,vscode,obsidian,md)](https://skillicons.dev)
+## 🛠️ Tech Stack 💼
+[![Skills](https://skillicons.dev/icons?i=js,html,css,sass)](https://skillicons.dev)<br/>
+[![Tools](https://skillicons.dev/icons?i=figma,vscode,obsidian,md)](https://skillicons.dev)
 
-✨Future goals:<br/>
+### ✨Future goals:<br/>
 - To fully learn the MEVN stack and build a web application based on it
 - Contribute to Lapis Lua development and start learning game development on Roblox Studio
 
