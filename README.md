@@ -6,7 +6,7 @@
 😄 Fun Fact: I'm an INTJ and love cats ^o^<br/>
 
 # 🛠️ Tech Stack 💼
-[![Skills](https://skillicons.dev/icons?i=js,html,css,sass)]
+[![Skills](https://skillicons.dev/icons?i=js,html,css,sass)]<br/>
 [![Tools](https://skillicons.dev/icons?i=figma,vscode,obsidian,md)]
 
 ✨Future goals:<br/>
