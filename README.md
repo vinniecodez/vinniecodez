@@ -8,10 +8,8 @@ by building [Timewise](https://github.com/vinniecodez/timewise)<br/>
 <!-- Fun Fact: I'm an INTJ and love cats ^o^<br/> -->
 
 ## Tech Stack
-[![Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,vue,vite)]
-(https://skillicons.dev)<br/>
-[![Tools](https://skillicons.dev/icons?i=figma,vscode,obsidian,md)]
-(https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,vue,vite)](https://skillicons.dev)<br/>
+[![Tools](https://skillicons.dev/icons?i=figma,vscode,obsidian,md)](https://skillicons.dev)
 
 ### Future goals:<br/>
 - Learn the MEVN stack and build a web application based on it
